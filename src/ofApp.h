@@ -1,3 +1,5 @@
+/* Copyright 2016 Andreu Grimalt */
+
 #pragma once
 
 #include "MSAFluid.h"

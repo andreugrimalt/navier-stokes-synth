@@ -1,3 +1,5 @@
+/* Copyright 2016 Andreu Grimalt */
+
 #include "ofApp.h"
 
 // Code adapted from https://github.com/memo/ofxMSAFluid example
