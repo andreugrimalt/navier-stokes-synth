@@ -1,0 +1,8 @@
+ofxOsc
+ofxXmlSettings
+ofxMaxim
+ofxMSACore
+ofxMSAFluid
+ofxMSAInteractiveObject
+ofxSimpleGuiToo
+ofxTuio
